@@ -5,7 +5,6 @@ Applicazione web e-commerce moderna per la vendita di ricambi originali per moto
 
 ## Modifiche Recenti
 - **2025-10-22**: Setup iniziale del progetto con implementazione completa del frontend
-  - Creato sistema di autenticazione con Replit Auth (Google, GitHub, email/password)
   - Implementate tre pagine principali: Home, Shop, Carrello
   - Aggiunto catalogo prodotti con filtri e ricerca
   - Costruita Navbar responsive con badge carrello
